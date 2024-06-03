@@ -63,5 +63,7 @@ bulunmaktadır.
 • Her dairenin en az bir sakini bulunmaktadır.
 
 • Her araç için bir otopark yeri ayrılmıştır.
+
 • Her araç bir sakine aittir ve bir sakinin birden çok aracı olabilir.
+
 • Bir binada birden çok personel çalışabilir.
